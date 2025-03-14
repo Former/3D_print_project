@@ -1,0 +1,10 @@
+[filament]
+name = ABS_1_7
+diameter = 1.75
+multiplierPercent = 75
+printingTemperature = 203
+enableCooling = True
+bedTemperature = 80
+fanSpeedMin = 50
+fanSpeedMax = 100
+minimalLayerTime = 5
