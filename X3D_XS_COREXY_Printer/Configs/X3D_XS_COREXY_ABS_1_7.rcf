@@ -1,0 +1,10 @@
+[filament]
+name = X3D_XS_COREXY
+diameter = 1.75
+multiplierPercent = 72
+printingTemperature = 210
+enableCooling = True
+bedTemperature = 60
+fanSpeedMin = 50
+fanSpeedMax = 100
+minimalLayerTime = 5
